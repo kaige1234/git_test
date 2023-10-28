@@ -1,1 +1,2 @@
 回退回来的文件
+git reset --soft HEAD^
