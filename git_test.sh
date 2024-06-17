@@ -9,3 +9,8 @@ do
     echo "$s" 
 done
 
+
+我要新添加一些东西测试cherry对冲突的处理
+
+
+
